@@ -1,4 +1,4 @@
-# I'm Chan Myae Maung - Chan Lay 👋
+# I'm Chan Lay 👋
 
 ### I'm a front-end web developer.
 
