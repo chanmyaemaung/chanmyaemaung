@@ -2,7 +2,7 @@
 
 ### I'm a front-end web developer.
 
-Building simple and beautiful things for complex interfaces is what I enjoy most about my work. I am also interested in crafting beautiful minimal products and exploring new worlds.
+Building simple and beautiful things for complex interfaces is what I enjoy most about my work. I am also interested in most trending popular programing language which called Python.
 
 
 🔭 I’m currently working on different e-commerce projects.
@@ -38,3 +38,6 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 [![trophy](https://github-profile-trophy.vercel.app/?username=chanmyaemaung)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=chanmyaemaung)
+
+### Credit to 
+`https://github.com/johndavemanuel/johndavemanuel`
