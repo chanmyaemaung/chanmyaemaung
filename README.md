@@ -39,5 +39,5 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 
 ![](https://komarev.com/ghpvc/?username=chanmyaemaung)
 
-### Credit to 
+### Template Credit to:
 `https://github.com/johndavemanuel/johndavemanuel`
