@@ -32,9 +32,9 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmyaemaung&layout=compact)](https://github.com/chanmyaemaung/github-readme-stats)
 
 ## :zap: Github Stats
-![My's github stats](https://github-readme-stats.vercel.app/api?username=johndavemanuel&show_icons=true)
+![My's github stats](https://github-readme-stats.vercel.app/api?username=chanmyaemaung&show_icons=true)
 
 ## :trophy: Github Awards
-[![trophy](https://github-profile-trophy.vercel.app/?username=johndavemanuel)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chanmyaemaung)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=chanmyaemaung)
