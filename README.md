@@ -1,4 +1,4 @@
-# I'm Chan Lay 👋
+# I'm Chen Lay 👋
 
 ### I'm a front-end web developer.
 
