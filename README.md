@@ -21,7 +21,7 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 
 📫 How to reach me:
 
-[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:maungmaungyoker.mmy@gmail.com) 
+[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:info@chanmyaemaung.net) 
 
 ## :computer: Technologies
 <p align="center">
