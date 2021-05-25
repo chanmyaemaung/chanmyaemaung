@@ -2,7 +2,35 @@
 
 ### I'm a front-end web developer.
 
-Building simple and beautiful things for complex interfaces is what I enjoy most about my work. I am also interested in most trending popular programing language which called Python.
+  Hi, I'm Chen Lay, a freelance software engineer specialized in both front-end and back-end as well as Cross Platform Mobile Developer at Yay Kyi Yar Co., Ltd. Building simple and beautiful things for complex interfaces is what I enjoy most about my work. I am also interested in most trending popular programing language which called Python. Expecially, most off all my projects are using with NodeJS & Express Framework.
+
+  I have 5 years of experience as a developer and love working with React and other hip frameworks. I am passionate about building excellent web application that improves productivity. I specialize in creating web application for clients ranging from individuals and small-businesses all the way to large enterprise corporations. What would you do if you had a software expert available at your fingertips?
+
+
+### FRONT-END ENGINEERING
+
+I specialize in applications written in React. Recently I became also a huge fan of one-way data flow and Redux-like architecture and also typed languages, e.g. TypeScript.
+
+[ My current experience and skills in front-end includes: ]
+
+  Lead TypeScript/JavaScript development: bootstraping, refactoring, improving the structure, reliability, build setup; full integration of front-end development using tools like Webpack with features like automatic code reload, code minifications, multiple environments support, CI/CD, Storybook components library, automated testing of accessibility, server-side render and visual snapshots, good sense of design and UX, huge experience in almost all of the JS ecosystems, by having used in the past many libraries like Next.js, React, Redux,  Ionic Framework, Backbone, jQuery, Lodash/Underscore and many else.
+
+
+### BACK-END ENGINEERING
+
+  In back-end development, my current stack involves Express and Fasty Framework, and alternatively PHP or NodeJS. Nearly every app I have launched in the past had the back-end done also by me. In order to improve the development speed, performance and reliability, I have changed languages and frameworks already multiple times, from PHP to Ruby and now to Elixir; and configured servers using just the shell, then Chef/Ansible, and now Docker and Kubernetes. The lessons I learned while doing all these apps will be useful for me forever, no matter what framework I will use in the next project.
+
+
+### What I can do for you at that side is:
+
+  Express/Fast lead development of backends in PHP/NodeJS, splitting the back-end into separate domains and microservices, cooperation with APIs, remote data synchronizations, cloud servers, asynchronous workers, using different types of databases (like PostgreSQL, MySQL, Elasticsearch, Redis) dividing the servers into different machine nodes / docker containers; database sharding; load balancing, refactoring existing applications, by improving code readibility, separating concerns into separate functions/classes/modules, taking the business logic out from your request/response layer into separate modules (DDD), and moving the app architecture into an event-based one writing unit and e2e tests.
+
+
+### PROJECT LEADERSHIP, TEAM MENTORSHIP ?
+
+  During my time I have created and released tens of websites. Thus, not only I have coded their back-end and front-end codebases, but often I also had to care about other things needed in a successful web application project: good planning of UI and thinking how it affects the UX; consistency in design and typography; Search Engine Optimization; launching, deployment and monitoring the app after the release; recruiting, onboarding and mentoring team members; in cases where a good Project Manager was missing, fullfilling his role, in order to save the project from losing time on unneeded things.
+
+  If your initial thought is that I can’t be the best in everything, it's okay. Send the design job to someone else, and I will take care of all the code development, or whatever other role you see me best in. In cases when you already have an existing team, but you would still use some help, contact me as well. I’ll fit in very quickly, I promise.
 
 
 🔭 I’m currently working on different e-commerce projects.
