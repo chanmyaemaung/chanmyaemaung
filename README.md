@@ -61,6 +61,6 @@ I specialize in applications written in React. Recently I became also a huge fan
 ![My's github stats](https://github-readme-stats.vercel.app/api?username=chanmyaemaung&show_icons=true)
 
 ## :trophy: Github Awards
-[![trophy](https://github-profile-trophy.vercel.app/?username=chanmyaemaung)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=chanmyaemaung)
