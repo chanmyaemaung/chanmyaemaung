@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=chanmyaemaung)
+
 # 👋 Hi, I'm Chen Lay, 
 
   I'm a front-end web developer. As a freelance software engineer specialized in both front-end and back-end as well as Cross Platform Mobile Developer at Yay Kyi Yar Co., Ltd. Building simple and beautiful things for complex interfaces is what I enjoy most about my work. I am also interested in most trending popular programing language which called Python. Expecially, most off all my projects are using with NodeJS & Express Framework.
@@ -62,5 +64,3 @@ I specialize in applications written in React. Recently I became also a huge fan
 
 ## :trophy: Github Awards
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://komarev.com/ghpvc/?username=chanmyaemaung)
