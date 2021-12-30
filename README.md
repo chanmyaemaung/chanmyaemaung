@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=chanmyaemaung)
+![](https://komarev.com/ghpvc/?username=chanmyaemaung&color=ff69b4)
 
 # 👋 Hi, I'm Chen Lay, 
 
