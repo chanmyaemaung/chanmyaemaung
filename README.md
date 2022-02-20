@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Chen Lay, 
 
-  I'm a front-end web developer. As a freelance software engineer specialized in both front-end and back-end as well as Cross Platform Mobile Developer at Yay Kyi Yar Co., Ltd. Building simple and beautiful things for complex interfaces is what I enjoy most about my work. I am also interested in most trending popular programing language which called Python. Expecially, most off all my projects are using with NodeJS & Express Framework.
+  I'm a front-end web developer. As a freelance software engineer specialized in both front-end and back-end as well as do working with the Cross Platform Mobile Developer at Yay Kyi Yar Co., Ltd. Building simple and beautiful things for complex interfaces is what I enjoy most about my work. I am also interested in most trending popular programing language which called Python. Expecially, most off all my projects are using with NodeJS & Express Framework.
 
-  I have 5 years of experience as a developer and love working with React and other hip frameworks. I am passionate about building excellent web application that improves productivity. I specialize in creating web application for clients ranging from individuals and small-businesses all the way to large enterprise corporations. What would you do if you had a software expert available at your fingertips?
+  I have 5 years of experience as a developer and love working with React.js and other hip frameworks. I am passionate about building excellent web application that improves productivity. I specialize in creating web application for clients ranging from individuals and small-businesses all the way to large enterprise corporations. What would you do if you had a software expert available at your fingertips?
 
 
 ### FRONT-END ENGINEERING
@@ -18,7 +18,7 @@ I specialize in applications written in React. Recently I became also a huge fan
 
 ### BACK-END ENGINEERING
 
-  In back-end development, my current stack involves Express and Fasty Framework, and alternatively PHP or NodeJS. Nearly every app I have launched in the past had the back-end done also by me. In order to improve the development speed, performance and reliability, I have changed languages and frameworks already multiple times, from PHP to Ruby and now to Elixir; and configured servers using just the shell, then Chef/Ansible, and now Docker and Kubernetes. The lessons I learned while doing all these apps will be useful for me forever, no matter what framework I will use in the next project.
+  In back-end development, my current stack involves Express Framework, and alternatively PHP or NodeJS. Nearly every app I have launched in the past had the back-end done also by me. In order to improve the development speed, performance and reliability, I have changed languages and frameworks already multiple times, from PHP to Ruby and now to Elixir; and configured servers using just the shell, then Chef/Ansible, and now Docker and Kubernetes. The lessons I learned while doing all these apps will be useful for me forever, no matter what framework I will use in the next project.
 
 
 ### What I can do for you at that side is:
