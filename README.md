@@ -18,7 +18,7 @@ I specialize in applications written in React. Recently I became also a huge fan
 
 ### BACK-END ENGINEERING
 
-  In back-end development, my current stack involves Express Framework, and alternatively PHP or NodeJS. Nearly every app I have launched in the past had the back-end done also by me. In order to improve the development speed, performance and reliability, I have changed languages and frameworks already multiple times, from PHP to Ruby and now to Elixir; and configured servers using just the shell, then Chef/Ansible, and now Docker and Kubernetes. The lessons I learned while doing all these apps will be useful for me forever, no matter what framework I will use in the next project.
+  In back-end development, my current stack involves Express Framework, and alternatively PHP or NodeJS. Nearly every app I have launched in the past had the back-end done also by me. In order to improve the development speed, performance and reliability, I have changed languages and frameworks already multiple times, from PHP to Ruby and now to Elixir; and configured servers using just the shell, and now Docker and Kubernetes. The lessons I learned while doing all these apps will be useful for me forever, no matter what framework I will use in the next project.
 
 
 ### What I can do for you at that side is:
