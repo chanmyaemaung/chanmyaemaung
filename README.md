@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Chen Lay, 
 
-  I'm a front-end web developer. As a freelance software engineer specialized in both front-end and back-end as well as do working with the Cross Platform Mobile Developer at Yay Kyi Yar Co., Ltd. Building simple and beautiful things for complex interfaces is what I enjoy most about my work. I am also interested in most trending popular programing language which called Python. Expecially, most off all my projects are using with NodeJS & Express Framework.
+  I'm a web developer. Programming Is My Passion. As a software engineer I specialized in both front-end and back-end as well as do working with the Cross Platform Mobile Developer at Yay Kyi Yar Co., Ltd. or now become GoldenFlight. Building simple and beautiful things for complex interfaces is what I enjoy most about my work. I am also interested in most trending popular programing language which called Python. Expecially, most off all my projects are using with NodeJS & Express Framework.
 
-  I have 3 years of experience as a developer and love working with React.js and other hip frameworks. I am passionate about building excellent web application that improves productivity. I specialize in creating web application for clients ranging from individuals and small-businesses all the way to large enterprise corporations. What would you do if you had a software expert available at your fingertips?
+  I have several years of experienced as a developer and love working with React.js and other hip frameworks. I am passionate about building excellent web application that improves productivity. I specialize in creating web application for clients ranging from individuals and small-businesses all the way to large enterprise corporations. What would you do if you had a software expert available at your fingertips?
 
 
 ### FRONT-END ENGINEERING
