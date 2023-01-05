@@ -1,36 +1,34 @@
 ![](https://komarev.com/ghpvc/?username=chanmyaemaung&color=ff69b4)
 
-# 👋 Hi, I'm Chen Lay, 
+# 👋 Hello,
 
-  I'm a web developer. Programming Is My Passion. As a software engineer I specialized in both front-end and back-end as well as do working with the Cross Platform Mobile Developer at Yay Kyi Yar Co., Ltd. or now become GoldenFlight. Building simple and beautiful things for complex interfaces is what I enjoy most about my work. I am also interested in most trending popular programing language which called Python. Expecially, most off all my projects are using with NodeJS & Express Framework.
+  My name is Chen Lay and I am a highly motivated and skilled web developer with a passion for building beautiful, functional, and user-friendly websites.
 
-  I have several years of experienced as a developer and love working with React.js and other hip frameworks. I am passionate about building excellent web application that improves productivity. I specialize in creating web application for clients ranging from individuals and small-businesses all the way to large enterprise corporations. What would you do if you had a software expert available at your fingertips?
+I have over 3 years of experience in the web development field, and have had the opportunity to work on a wide range of projects for a variety of clients, including small businesses, startups, and large corporations. Currently, I am working as a front-end developer at Visible One, where I have gained valuable experience and skills in the industry.
 
 
 ### FRONT-END ENGINEERING
 
-I specialize in applications written in React. Recently I became also a huge fan of one-way data flow and Redux-like architecture and also typed languages, e.g. TypeScript.
-
-[ My current experience and skills in front-end includes: ]
-
-  Lead TypeScript/JavaScript development: bootstraping, refactoring, improving the structure, reliability, build setup; full integration of front-end development using tools like Webpack with features like automatic code reload, code minifications, multiple environments support, CI/CD, Storybook components library, automated testing of accessibility, server-side render and visual snapshots, good sense of design and UX, huge experience in almost all of the JS ecosystems, by having used in the past many libraries like Next.js, React, Redux,  Ionic Framework, Backbone, jQuery, Lodash/Underscore and many else.
+As a front-end engineer, I specialize in building the user-facing side of web applications. This includes designing and implementing responsive and visually appealing interfaces using technologies such as HTML, CSS, and JavaScript. I have a strong understanding of user experience (UX) principles and am skilled in utilizing frameworks such as React and Angular to create interactive and engaging web experiences.
 
 
 ### BACK-END ENGINEERING
 
-  In back-end development, my current stack involves Express Framework, and alternatively PHP or NodeJS. Nearly every app I have launched in the past had the back-end done also by me. In order to improve the development speed, performance and reliability, I have changed languages and frameworks already multiple times, from PHP to Ruby and now to Elixir; and configured servers using just the shell, and now Docker and Kubernetes. The lessons I learned while doing all these apps will be useful for me forever, no matter what framework I will use in the next project.
+In addition to my front-end skills, I also have experience in back-end engineering, which involves building and maintaining the server-side of web applications. I have specialized in using Node.js and Laravel, which are powerful technologies for building scalable and efficient back-end systems. This includes developing and integrating APIs, working with databases, and ensuring the smooth and efficient operation of the application.
 
 
 ### What I can do for you at that side is:
 
-  Express/Fast lead development of backends in PHP/NodeJS, splitting the back-end into separate domains and microservices, cooperation with APIs, remote data synchronizations, cloud servers, asynchronous workers, using different types of databases (like PostgreSQL, MySQL, Elasticsearch, Redis) dividing the servers into different machine nodes / docker containers; database sharding; load balancing, refactoring existing applications, by improving code readibility, separating concerns into separate functions/classes/modules, taking the business logic out from your request/response layer into separate modules (DDD), and moving the app architecture into an event-based one writing unit and e2e tests.
+I am an experienced project leader and have a proven track record of successfully leading cross-functional teams to deliver high-quality web development projects on time and within budget. I am adept at managing project timelines, budgets, and resources, and am skilled in agile development methodologies.
 
 
 ### PROJECT LEADERSHIP, TEAM MENTORSHIP ?
 
-  During my time I have created and released tens of websites. Thus, not only I have coded their back-end and front-end codebases, but often I also had to care about other things needed in a successful web application project: good planning of UI and thinking how it affects the UX; consistency in design and typography; Search Engine Optimization; launching, deployment and monitoring the app after the release; recruiting, onboarding and mentoring team members; in cases where a good Project Manager was missing, fullfilling his role, in order to save the project from losing time on unneeded things.
+  I am also a strong team player and enjoy mentoring and guiding junior developers in their career growth. I have experience leading and mentoring development teams and am committed to fostering a positive and collaborative work environment.
 
-  If your initial thought is that I can’t be the best in everything, it's okay. Send the design job to someone else, and I will take care of all the code development, or whatever other role you see me best in. In cases when you already have an existing team, but you would still use some help, contact me as well. I’ll fit in very quickly, I promise.
+In my portfolio, you will find a selection of my best web development projects that showcase my versatility and ability to create stunning, responsive websites. From simple brochure websites to complex web applications, I have the knowledge and experience to bring your vision to life.
+
+Thank you for considering me for your web development needs. With my skills in both front-end and back-end engineering, as well as my experience in project leadership and team mentorship, I am confident in my ability to deliver high-quality work and am excited to bring my skills and passion to your project. Let's work together to create something truly amazing!
 
 
 🔭 I’m currently working on different e-commerce projects.
