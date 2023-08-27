@@ -42,7 +42,7 @@
 <a href="https://nodejs.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
 </a>
-<a href="https://nodejs.org/" target="_blank">
+<a href="https://www.python.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
 </a>
 <a href="https://www.php.net/" target="_blank">
