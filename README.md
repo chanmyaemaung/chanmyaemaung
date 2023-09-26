@@ -34,7 +34,7 @@
 
 <p>
 <a href="https://github.com/chanmyaemaung">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chanmyaemaung&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=chanmyaemaung&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanmyaemaung&layout=compact&theme=dark&langs_count=6&hide=jupyter%20Notebook" />
 </a>
 </p>
