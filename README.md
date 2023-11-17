@@ -6,11 +6,11 @@
 
 - :question: Ask me about **React, Node.js and Shopify**
 
-- :mailbox_with_mail: How to reach me **info@chanmyaemaung.net**
+- :mailbox_with_mail: How to reach me **mr.chenlay@gmail.com**
 
 - :bowtie: Pronouns: He / Him
 
-- :clown_face: Fun fact: **I Believe in Aliens**
+- :clown_face: Fun fact: **Alien enthusiast, believer in extraterrestrial pals! 🛸**
 
 
 
