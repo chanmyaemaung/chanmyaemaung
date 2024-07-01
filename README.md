@@ -18,7 +18,7 @@
 
 <a href="https://www.linkedin.com/in/chenlay/"><img src="https://img.shields.io/badge/-Chen%20Lay-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mr.chenlay@gmail.com"><img src="https://img.shields.io/badge/email-mr.chenlay@gmail.com-cyan"/></a>
-<a href="https://instagram.com/mr.mcmm"><img src="https://img.shields.io/badge/-/mr.mcmm-e4405f?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/mr.mcmm"><img src="https://img.shields.io/badge/mr.mcmm-e4405f?style=flat&logo=instagram&logoColor=white"/></a>
 <!-- <a href="https://facebook.com/mynameischen"><img src="https://img.shields.io/badge/-/mynameischen-3b5998?style=flat&logo=facebook&logoColor=white"/></a> -->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
