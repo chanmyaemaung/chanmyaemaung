@@ -19,7 +19,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
-### 🛠️ Tech Stacks I Used
+## 🛠️ Tech Stacks I Used
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,php,wordpress" /><img src="https://simpleskill.icons.workers.dev/svg?i=shopify" /> <br/>
 <img src="https://skillicons.dev/icons?i=angular,react,html,css,js,ts" />
