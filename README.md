@@ -14,7 +14,7 @@
 
 <div align="center">
 
-**💡 Passionate Full-Stack Developer | Tech Innovator | Problem Solver**
+### 💡 Passionate Full-Stack Developer | Tech Innovator | Problem Solver**
 
 </div>
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chanmyaemaung&show_icons=true&theme=tokyonight&hide_border=true&icon_color=8b5cf6&title_color=8b5cf6&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://streak-stats.demolab.com?user=chanmyaemaung&theme=tokyonight&hide_border=true" alt="chanmyaemaung's GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanmyaemaung&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
 
 </div>
@@ -82,8 +82,6 @@
 
 </div>
 
----
-
 ## 💻 Coding Journey
 
 <div align="center">
@@ -96,7 +94,7 @@
 
 **Languages I speak fluently:** JavaScript • PHP • Java • TypeScript  
 **Frameworks I love:** React • Angular • Laravel • Spring Boot  
-**E-commerce Platforms:** WooCommerce & Shopify Plus Experienced
+**E-commerce Platforms:** WooCommerce & Shopify Plus
 
 </div>
 
