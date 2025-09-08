@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### 💡 Passionate Full-Stack Developer | Tech Innovator | Problem Solver**
+### 💡 Passionate Full-Stack Developer | Tech Innovator | Problem Solver
 
 </div>
 
