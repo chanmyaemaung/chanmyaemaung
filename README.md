@@ -20,7 +20,6 @@
 
 🌟 **What drives me:** Transforming complex ideas into elegant, scalable solutions  
 🎯 **Current focus:** Building modern web applications with cutting-edge technologies  
-📝 **Knowledge sharing:** Writing technical articles at [**chenlay.vercel.app/blog**](https://chenlay.vercel.app/blog)  
 🚀 **Mission:** Creating digital experiences that make a difference  
 
 **Quick facts about me:**
