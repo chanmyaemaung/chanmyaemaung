@@ -42,7 +42,7 @@
 <img src="https://skillicons.dev/icons?i=php,nodejs,java&theme=light" alt="Backend Technologies" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=laravel,nuxt,wordpress,express,nestjs,spring&theme=light" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=laravel,wordpress,express,nestjs,spring&theme=light" alt="Frameworks" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
 
 ### E-commerce & CMS
