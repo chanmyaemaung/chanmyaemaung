@@ -54,33 +54,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://streak-stats.demolab.com?user=chanmyaemaung&theme=tokyonight&hide_border=true" alt="chanmyaemaung's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanmyaemaung&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-  
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chanmyaemaung&theme=tokyo-night&hide_border=true&color=8b5cf6&line=8b5cf6&point=ffffff" alt="Activity Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chanmyaemaung&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
-
-</div>
-
 ## 💻 Coding Journey
 
 <div align="center">
